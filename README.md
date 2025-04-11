@@ -1,4 +1,4 @@
-# Projetos-em-Excel
+# Projetos em Excel - Dashbords, Macros e VBA.
 
 Este repositório reúne diversos projetos desenvolvidos em Microsoft Excel, com foco em automações, visualização de dados e ferramentas úteis para o dia a dia. Aqui você vai encontrar:
 
