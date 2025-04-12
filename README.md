@@ -17,3 +17,4 @@ Estes projetos reforçaram minha capacidade de analisar dados, criar soluções 
 ## Dashboards
 ### 1. Projeto 1
 ![Image](https://github.com/user-attachments/assets/e67bdb98-3add-45a4-b401-e366e8f44bfe)
+![Image](https://github.com/user-attachments/assets/083e4ce0-ccc5-4e45-8d37-ce2d5e8727b6)
