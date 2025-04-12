@@ -15,4 +15,5 @@ Este repositório reúne os projetos que desenvolvi durante minha capacitação 
 Estes projetos reforçaram minha capacidade de analisar dados, criar soluções automatizadas e transformar informações brutas em insights práticos para a tomada de decisão.
 
 ## Dashboards
+### 1. Projeto 1
 ![Image](https://github.com/user-attachments/assets/e67bdb98-3add-45a4-b401-e366e8f44bfe)
