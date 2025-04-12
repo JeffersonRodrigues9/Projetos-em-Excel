@@ -8,8 +8,5 @@ Este repositório reúne diversos projetos desenvolvidos em Microsoft Excel, com
 
 📈 Tabelas dinâmicas e análise de dados
 
-🧩 Soluções práticas para tarefas repetitivas
-
-A ideia é centralizar e compartilhar soluções desenvolvidas ao longo do tempo, que podem servir de inspiração ou ajuda para quem trabalha com Excel no dia a dia.
 
 ![Image](https://github.com/user-attachments/assets/e67bdb98-3add-45a4-b401-e366e8f44bfe)
