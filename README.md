@@ -22,3 +22,7 @@ O principal objetivo deste dashboard financeiro no Excel foi fornecer uma ferram
 ![Image](https://github.com/user-attachments/assets/e67bdb98-3add-45a4-b401-e366e8f44bfe)
 ### 1.1 Filtro - Janeiro e Sudeste 2
 ![Image](https://github.com/user-attachments/assets/083e4ce0-ccc5-4e45-8d37-ce2d5e8727b6)
+
+Acesse o Dashboard: 
+
+# 2. Projeto 2 -
