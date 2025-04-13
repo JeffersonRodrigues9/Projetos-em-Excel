@@ -20,5 +20,5 @@ Estes projetos reforçaram minha capacidade de analisar dados, criar soluções 
 O principal objetivo deste dashboard financeiro no Excel foi fornecer uma ferramenta prática e visual para monitorar a saúde financeira da empresa. Ele permite acompanhar faturamento, despesas, margem de lucro, ticket médio, e outros KPIs financeiros de maneira fácil e eficiente. Com esse dashboard, os tomadores de decisão podem analisar rapidamente os dados e tomar ações baseadas em informações claras e concisas.
 
 ![Image](https://github.com/user-attachments/assets/e67bdb98-3add-45a4-b401-e366e8f44bfe)
-#### Filtro - Janeiro e Sudeste 2
+### 1.1 Filtro - Janeiro e Sudeste 2
 ![Image](https://github.com/user-attachments/assets/083e4ce0-ccc5-4e45-8d37-ce2d5e8727b6)
