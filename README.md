@@ -16,7 +16,17 @@ Estes projetos reforçaram minha capacidade de analisar dados, criar soluções 
 
 ## Dashboards
 
-O principal objetivo deste dashboard financeiro no Excel foi fornecer uma ferramenta prática e visual para monitorar a saúde financeira da empresa. Ele permite acompanhar faturamento, despesas, margem de lucro, ticket médio, e outros KPIs financeiros de maneira fácil e eficiente. Com esse dashboard, os tomadores de decisão podem analisar rapidamente os dados e tomar ações baseadas em informações claras e concisas.
+O principal objetivo destes dashboards financeiros desenvolvidos no Excel é fornecer ferramentas práticas e visuais para monitorar a saúde financeira das empresas de maneira clara e eficiente. Cada painel foi projetado para atender a diferentes contextos e necessidades, permitindo o acompanhamento de indicadores-chave como faturamento, despesas, margem de lucro, ticket médio, entre outros KPIs relevantes.
+
+Entre os dashboards desenvolvidos, destacam-se:
+
+Dashboard Financeiro Geral – Oferece uma visão ampla e integrada da situação financeira, auxiliando na análise de desempenho e na tomada de decisões estratégicas.
+
+Dashboard da Empresa SERENATTO Café & Bistrô – Focado no setor de alimentação, permite acompanhar receitas, despesas e rentabilidade com maior controle e clareza.
+
+Dashboard de Vendas de Suplementação – Voltado para o segmento de suplementos, facilita a análise de vendas, identificação de tendências e monitoramento de resultados.
+
+Esses dashboards permitem que os tomadores de decisão analisem os dados de forma ágil, visual e objetiva, facilitando o planejamento e promovendo ações mais estratégicas e fundamentadas.
 
 ### 1. Projeto 1 - Dashboard Financeiro
 
