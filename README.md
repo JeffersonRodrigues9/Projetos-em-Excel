@@ -26,3 +26,5 @@ O principal objetivo deste dashboard financeiro no Excel foi fornecer uma ferram
 Acesse o Dashboard: 
 
 # 2. Projeto 2 -
+
+![Image](https://github.com/user-attachments/assets/5b22d4b1-b9b4-4413-99fd-5737c8af508e)
