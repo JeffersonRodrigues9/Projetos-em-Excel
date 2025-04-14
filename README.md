@@ -34,4 +34,4 @@ Acesse o Dashboard:
 ### 3. Projeto 3 - Dashboard de Suplementação
 ![Image](https://github.com/user-attachments/assets/4f20b879-ea65-4cd5-a7ae-adfdb12a657c)
 ### 3.1 Filtro - 
-![Image](https://github.com/user-attachments/assets/c5bb9491-8f16-42d5-836b-d80fa9f51b52)
+![Image](https://github.com/user-attachments/assets/020580a4-d025-4b0e-b91e-866e243a5d99)
