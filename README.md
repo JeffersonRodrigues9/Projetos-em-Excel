@@ -29,4 +29,4 @@ Acesse o Dashboard:
 
 ![Image](https://github.com/user-attachments/assets/5b22d4b1-b9b4-4413-99fd-5737c8af508e)
 ### 2.1 Filtro - 
-![Image](https://github.com/user-attachments/assets/908c305f-1d79-4480-98f0-cdc42de9bb8d)
+![Image](https://github.com/user-attachments/assets/12353e5a-d382-4ec1-a27e-acde1efd87f2)
