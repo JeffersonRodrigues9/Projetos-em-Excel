@@ -15,9 +15,10 @@ Este repositório reúne os projetos que desenvolvi durante minha capacitação 
 Estes projetos reforçaram minha capacidade de analisar dados, criar soluções automatizadas e transformar informações brutas em insights práticos para a tomada de decisão.
 
 ## Dashboards
-### 1. Projeto 1 - Dashboard Financeiro
 
 O principal objetivo deste dashboard financeiro no Excel foi fornecer uma ferramenta prática e visual para monitorar a saúde financeira da empresa. Ele permite acompanhar faturamento, despesas, margem de lucro, ticket médio, e outros KPIs financeiros de maneira fácil e eficiente. Com esse dashboard, os tomadores de decisão podem analisar rapidamente os dados e tomar ações baseadas em informações claras e concisas.
+
+### 1. Projeto 1 - Dashboard Financeiro
 
 ![Image](https://github.com/user-attachments/assets/e67bdb98-3add-45a4-b401-e366e8f44bfe)
 ### 1.1 Filtro - Janeiro e Sudeste 2
