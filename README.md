@@ -20,11 +20,11 @@ O principal objetivo destes dashboards financeiros desenvolvidos no Excel é for
 
 Entre os dashboards desenvolvidos, destacam-se:
 
-Dashboard Financeiro Geral – Oferece uma visão ampla e integrada da situação financeira, auxiliando na análise de desempenho e na tomada de decisões estratégicas.
+- Dashboard Financeiro – Oferece uma visão ampla e integrada da situação financeira, auxiliando na análise de desempenho e na tomada de decisões estratégicas.
 
-Dashboard da Empresa SERENATTO Café & Bistrô – Focado no setor de alimentação, permite acompanhar receitas, despesas e rentabilidade com maior controle e clareza.
+- Dashboard da Empresa SERENATTO Café & Bistrô – Focado no setor de alimentação, permite acompanhar receitas, despesas e rentabilidade com maior controle e clareza.
 
-Dashboard de Vendas de Suplementação – Voltado para o segmento de suplementos, facilita a análise de vendas, identificação de tendências e monitoramento de resultados.
+- Dashboard de Vendas de Suplementação – Voltado para o segmento de suplementos, facilita a análise de vendas, identificação de tendências e monitoramento de resultados.
 
 Esses dashboards permitem que os tomadores de decisão analisem os dados de forma ágil, visual e objetiva, facilitando o planejamento e promovendo ações mais estratégicas e fundamentadas.
 
@@ -42,7 +42,7 @@ Acesse o Dashboard:
 ### 2.1 Filtro - 
 ![Image](https://github.com/user-attachments/assets/12353e5a-d382-4ec1-a27e-acde1efd87f2)
 
-### 3. Projeto 3 - Dashboard Financeiro sobre venda de suplementaçãoo
+### 3. Projeto 3 - Dashboard Financeiro sobre venda de suplementação
 ![Image](https://github.com/user-attachments/assets/4f20b879-ea65-4cd5-a7ae-adfdb12a657c)
 ### 3.1 Filtro - 
 ![Image](https://github.com/user-attachments/assets/020580a4-d025-4b0e-b91e-866e243a5d99)
