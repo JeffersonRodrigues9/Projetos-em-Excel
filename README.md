@@ -34,8 +34,6 @@ Esses dashboards permitem que os tomadores de decisão analisem os dados de form
 ### 1.1 Filtro - Janeiro e Sudeste 2
 ![Image](https://github.com/user-attachments/assets/083e4ce0-ccc5-4e45-8d37-ce2d5e8727b6)
 
-Acesse o Dashboard: 
-
 ### 2. Projeto 2 - Dashboard Financeiro da Empresa SERENATTO Café & Bistrô
 
 ![Image](https://github.com/user-attachments/assets/5b22d4b1-b9b4-4413-99fd-5737c8af508e)
