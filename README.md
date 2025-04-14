@@ -30,3 +30,8 @@ Acesse o Dashboard:
 ![Image](https://github.com/user-attachments/assets/5b22d4b1-b9b4-4413-99fd-5737c8af508e)
 ### 2.1 Filtro - 
 ![Image](https://github.com/user-attachments/assets/12353e5a-d382-4ec1-a27e-acde1efd87f2)
+
+### 3. Projeto 3 - Dashboard de Suplementação
+![Image](https://github.com/user-attachments/assets/4f20b879-ea65-4cd5-a7ae-adfdb12a657c)
+### 3.1 Filtro - 
+![Image](https://github.com/user-attachments/assets/c5bb9491-8f16-42d5-836b-d80fa9f51b52)
