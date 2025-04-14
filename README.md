@@ -25,23 +25,23 @@ O principal objetivo deste dashboard financeiro no Excel foi fornecer uma ferram
 
 Acesse o Dashboard: 
 
-### 2. Projeto 2 -
+### 2. Projeto 2 - Dashboard Financeiro da Empresa SERENATTO Café & Bistrô
 
 ![Image](https://github.com/user-attachments/assets/5b22d4b1-b9b4-4413-99fd-5737c8af508e)
 ### 2.1 Filtro - 
 ![Image](https://github.com/user-attachments/assets/12353e5a-d382-4ec1-a27e-acde1efd87f2)
 
-### 3. Projeto 3 - Dashboard de Suplementação
+### 3. Projeto 3 - Dashboard Financeiro sobre venda de suplementaçãoo
 ![Image](https://github.com/user-attachments/assets/4f20b879-ea65-4cd5-a7ae-adfdb12a657c)
 ### 3.1 Filtro - 
 ![Image](https://github.com/user-attachments/assets/020580a4-d025-4b0e-b91e-866e243a5d99)
 
-### 4. Projeto 4 - Dashboard de 5 Suplumentos
+### 4. Projeto 4 - Dashboard Financeiro referente a venda de 5 produtos em 4 unidades diferentes
 ![Image](https://github.com/user-attachments/assets/7e884da8-b459-420b-9906-2a1cbf9a9856)
 ### 4.1 Filtro
 ![Image](https://github.com/user-attachments/assets/f3185dd7-a915-4310-a973-247534c62962)
 
-### 5. Projeto 5 - Dashboard 
+### 5. Projeto 5 - Dashboard Fincanceiro mostrando a margem média mensal e o faturamento mensal dos produtos
 ![Image](https://github.com/user-attachments/assets/76887ba0-e327-48b6-8fbd-a9320c9a7d1b)
 ### 5.1 Filtro 
 ![Image](https://github.com/user-attachments/assets/be024a8f-4e2d-433e-951d-d31e4859a08f)
