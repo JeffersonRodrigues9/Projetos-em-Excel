@@ -31,18 +31,18 @@ Esses dashboards permitem que os tomadores de decisão analisem os dados de form
 ### 1. Projeto 1 - Dashboard Financeiro
 
 ![Image](https://github.com/user-attachments/assets/e67bdb98-3add-45a4-b401-e366e8f44bfe)
-### 1.1 Filtro - Janeiro e Sudeste 2
+### 1.1 Filtro 
 ![Image](https://github.com/user-attachments/assets/083e4ce0-ccc5-4e45-8d37-ce2d5e8727b6)
 
 ### 2. Projeto 2 - Dashboard Financeiro da Empresa SERENATTO Café & Bistrô
 
 ![Image](https://github.com/user-attachments/assets/5b22d4b1-b9b4-4413-99fd-5737c8af508e)
-### 2.1 Filtro - 
+### 2.1 Filtro 
 ![Image](https://github.com/user-attachments/assets/12353e5a-d382-4ec1-a27e-acde1efd87f2)
 
 ### 3. Projeto 3 - Dashboard Financeiro sobre venda de suplementação
 ![Image](https://github.com/user-attachments/assets/4f20b879-ea65-4cd5-a7ae-adfdb12a657c)
-### 3.1 Filtro - 
+### 3.1 Filtro 
 ![Image](https://github.com/user-attachments/assets/020580a4-d025-4b0e-b91e-866e243a5d99)
 
 ### 4. Projeto 4 - Dashboard Financeiro referente a venda de 5 produtos em 4 unidades diferentes
