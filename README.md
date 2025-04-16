@@ -56,3 +56,5 @@ Esses dashboards permitem que os tomadores de decisão analisem os dados de form
 ![Image](https://github.com/user-attachments/assets/be024a8f-4e2d-433e-951d-d31e4859a08f)
 
 ## VBA
+
+## MACRO
